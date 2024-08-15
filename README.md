@@ -1,6 +1,8 @@
 # Привет, меня зовут Родион! 👋
 
-<img src="image/image(9).jpg" alt="Фото 3" style="height: 300px;">
+<div style="background-image: url('https://link-to-your-space-image.com'); background-size: cover; padding: 20px; border-radius: 10px;">
+  <img src="image/image(9).jpg" alt="Фото 3" style="height: 300px; border-radius: 10px;">
+</div>
 
 ## 🛠 Технологии и инструменты:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
