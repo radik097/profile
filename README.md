@@ -1,7 +1,7 @@
 # Привет, меня зовут Родион! 👋
 
-<div style="background-image: url('[https://link-to-your-space-image.com](https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_4855.jpg)'); background-size: cover; padding: 20px; border-radius: 10px;">
-  <img src="image/image(9).jpg" alt="Фото 3" style="height: 300px; border-radius: 10px;">
+<div style="background-image: url('[https://link-to-your-space-image.com](https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_4855.jpg)'); background-size: cover; padding: 20px; border-radius: 10px;"><center>
+  <img src="image/image(9).jpg" alt="Фото 3" style="height: 300px; border-radius: 10px;"></center>
 
 
 ## 🛠 Технологии и инструменты:
