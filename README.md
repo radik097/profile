@@ -1,6 +1,6 @@
 # Привет, меня зовут Родион! 👋
 
-![Header Image](https://link-to-your-image.com)
+<img src="image/image(9).jpg" alt="Фото 3" style="height: 300px;">
 
 ## 🛠 Технологии и инструменты:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
@@ -30,6 +30,6 @@
   <img src="image/image(6).jpg" alt="Фото 3" style="height: 300px;">
   <img src="image/image(7).jpg" alt="Фото 3" style="height: 300px;">
   <img src="image/image(8).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="image/image(9).jpg" alt="Фото 3" style="height: 300px;">
+  
   <img src="image/image(10).jpg" alt="Фото 3" style="height: 300px;">
 </div>
