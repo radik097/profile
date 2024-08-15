@@ -13,7 +13,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=radik097&theme=darkhub)
 
 ## 🚀 Проекты
-- [Название проекта](https://github.com/radik097/projectname) - Краткое описание проекта.
+- [-DecentralizedClient](https://github.com/radik097/-DecentralizedClient) - Краткое описание проекта.
 
 ## 📫 Связаться со мной:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
@@ -22,14 +22,14 @@
 ## Фото коллаж
 
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="images/image(1).jpg" alt="Фото 1" style="height: 300px;">
-  <img src="images/image(2).jpg" alt="Фото 2" style="height: 300px;">
-  <img src="images/image(3).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image(4).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image(5).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image(6).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image(7).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image(8).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image(9).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image(10).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="image/image(1).jpg" alt="Фото 1" style="height: 300px;">
+  <img src="image/image(2).jpg" alt="Фото 2" style="height: 300px;">
+  <img src="image/image(3).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="image/image(4).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="image/image(5).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="image/image(6).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="image/image(7).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="image/image(8).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="image/image(9).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="image/image(10).jpg" alt="Фото 3" style="height: 300px;">
 </div>
