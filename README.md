@@ -22,14 +22,14 @@
 ## Фото коллаж
 
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="images/image (1).jpg" alt="Фото 1" style="height: 300px;">
-  <img src="images/image (2).jpg" alt="Фото 2" style="height: 300px;">
-  <img src="images/image (3).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image (4).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image (5).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image (6).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image (7).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image (8).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image (9).jpg" alt="Фото 3" style="height: 300px;">
-  <img src="images/image (10).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="images/image(1).jpg" alt="Фото 1" style="height: 300px;">
+  <img src="images/image(2).jpg" alt="Фото 2" style="height: 300px;">
+  <img src="images/image(3).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="images/image(4).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="images/image(5).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="images/image(6).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="images/image(7).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="images/image(8).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="images/image(9).jpg" alt="Фото 3" style="height: 300px;">
+  <img src="images/image(10).jpg" alt="Фото 3" style="height: 300px;">
 </div>
