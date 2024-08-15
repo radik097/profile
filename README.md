@@ -1,8 +1,6 @@
 # Привет, меня зовут Родион! 👋
 
-<div style="background-image: url('[https://link-to-your-space-image.com](https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_4855.jpg)'); background-size: cover; padding: 20px; border-radius: 10px;"><center>
-  <img src="image/image(9).jpg" alt="Фото 3" style="height: 300px; border-radius: 10px;"></center>
-
+  <img src="image/image(9).jpg" alt="Фото 3" style="height: 300px; border-radius: 10px;">
 
 ## 🛠 Технологии и инструменты:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
