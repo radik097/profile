@@ -13,7 +13,7 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=radik097&theme=darkhub)
 
 ## 🚀 Проекты
-- [-DecentralizedClient](https://github.com/radik097/-DecentralizedClient) - Краткое описание проекта.
+- [-DecentralizedClient](https://github.com/radik097/-DecentralizedClient) - Децантролизованный мессенджер
 
 ## 📫 Связаться со мной:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
